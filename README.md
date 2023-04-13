@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=wooseok%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=wooseok's%20github&fontSize=90)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats-wooseok123.vercel.app/api?username=wooseok123)
 
 <!--
 **wooseok123/wooseok123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
