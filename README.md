@@ -3,6 +3,7 @@
 
 ## I contributed to...
 - [mdn/translated-content](https://github.com/mdn/translated-content/) : fix hoisting definition [#16944](https://github.com/mdn/translated-content/pull/16944)
+- [phaserjs/phaser](https://github.com/phaserjs/phaser) : add data argument in Scene.switch [#6876](https://github.com/phaserjs/phaser/pull/6876)
 
 
 ## I'm currently interested in...
