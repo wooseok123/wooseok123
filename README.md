@@ -1,5 +1,5 @@
 ## Stay hungry, stay foolish.
-"I'm a full-stack developer proficient in JavaScript, eager to contribute to open-source projects and explore diverse fields."
+"I'm a full-stack developer proficient in JavaScript."
 
 ## I contributed to...
 - [v8/v8.dev](https://github.com/v8/v8.dev) : debug : footer-line break issue [#695](https://github.com/v8/v8.dev/pull/695)
